@@ -16,7 +16,7 @@ javac Kamasutra.java
 
 Run-
 - To generate random keyfile. 
-java kamasutra -k keyfile.txtsts
+java kamasutra -k keyfile.txt
 
 - To encrypt plaintext.txt
 java kamasutra -e keyfile.txt plaintext.txt ciphertext.txt

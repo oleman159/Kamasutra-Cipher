@@ -25,8 +25,5 @@ java kamasutra -e keyfile.txt plaintext.txt ciphertext.txt
 java kamasutra -d keyfile.txt ciphertext.txt plaintext.txt
 
 def
-<<<<<<< HEAD
 abc
-=======
 def
->>>>>>> bfdcdfad05c28748a0e70c586746a445ea48d5c5

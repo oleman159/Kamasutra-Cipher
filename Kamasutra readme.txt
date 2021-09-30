@@ -27,3 +27,4 @@ java kamasutra -d keyfile.txt ciphertext.txt plaintext.txt
 def
 abc
 def
+abc
